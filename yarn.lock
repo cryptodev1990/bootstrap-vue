@@ -8930,20 +8930,10 @@ jimp-compact@^0.16.1:
   resolved "https://registry.yarnpkg.com/jimp-compact/-/jimp-compact-0.16.1.tgz#9582aea06548a2c1e04dd148d7c3ab92075aefa3"
   integrity sha512-dZ6Ra7u1G8c4Letq/B5EzAxj4tLFHL+cGtdpR+PVm4yzPDj+lCk+AbivWt1eOM+ikzkowtyV7qSqX6qr3t71Ww==
 
-jiti@^1.13.0:
-  version "1.13.0"
-  resolved "https://registry.yarnpkg.com/jiti/-/jiti-1.13.0.tgz#3cdfc4e651ca0cca4c62ed5e47747b5841d41a8e"
-  integrity sha512-/n9mNxZj/HDSrincJ6RP+L+yXbpnB8FybySBa+IjIaoH9FIxBbrbRT5XUbe8R7zuVM2AQqNMNDDqz0bzx3znOQ==
-
-jiti@^1.3.0:
-  version "1.9.1"
-  resolved "https://registry.yarnpkg.com/jiti/-/jiti-1.9.1.tgz#d9e267fa050ddc52191f17d8af815d49a38ebafd"
-  integrity sha512-AhYrAxJ/IW2257nHkJasUjtxHhmYIUEHEjsofJtGYsPWk8pTjqjbPFlJfOwfY+WX8YBiKHM1l0ViDC/mye2SWg==
-
-jiti@^1.9.2:
-  version "1.9.2"
-  resolved "https://registry.yarnpkg.com/jiti/-/jiti-1.9.2.tgz#2ee44830883dbb1b2e222adc053c3052d0bf3b61"
-  integrity sha512-wymUBR/YGGVNVRAxX52yvFoZdUAYKEGjk0sYrz6gXLCvMblnRvJAmDUnMvQiH4tUHDBtbKHnZ4GT3R+m3Hc39A==
+jiti@^1.17.2, jiti@^1.3.0, jiti@^1.9.2:
+  version "1.17.2"
+  resolved "https://registry.yarnpkg.com/jiti/-/jiti-1.17.2.tgz#9e193d171c76b1c518a46c243c410c0462fe22d1"
+  integrity sha512-Xf0nU8+8wuiQpLcqdb2HRyHqYwGk2Pd+F7kstyp20ZuqTyCmB9dqpX2NxaxFc1kovraa2bG6c1RL3W7XfapiZg==
 
 js-beautify@^1.6.12:
   version "1.13.13"
